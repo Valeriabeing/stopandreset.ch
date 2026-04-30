@@ -7,7 +7,7 @@ const PORTRAIT_IMAGE = "/assets/portrait-image.JPG";
 const heading = {
   fontFamily: "'Playfair Display', serif",
   fontWeight: 400,
-} as const;
+} as const; 
 
 const body: React.CSSProperties = {
   fontFamily: "'Inter', sans-serif",
